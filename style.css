@@ -1,0 +1,157 @@
+.barre{
+	font-family:"Open Sans", sans-serif;
+	background-color: black;	
+	width: 100%;
+	color: white;
+	height: 2.5em;
+	margin-top:-0.6em;
+}
+
+.boutton {
+    float: right;
+    list-style-type: none;
+	margin-top: -3.25em;
+	height: 1rem;
+	font-weight: 700;
+}
+.titrebarre1{
+	font-size: 0.5rem;
+	padding-top: 0.5em;
+	padding-left: 1em;
+}
+.titrebarre{
+	background-color: black;
+	color:white;	
+	margin-top: 12px;
+	 float:left;
+	 height: 1.9rem; 
+	 font-size: 0.75rem;
+	 padding-top: 0.45rem;
+	 width: 7em;
+	 text-align: center;
+	 
+}
+.titrebarre:hover {
+ 
+	background-color: slategrey;
+	 
+	}
+.premieresection{
+	background-image:url("cafe1.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 100% 90%;
+	width: 100%;
+	height: 30em;
+	text-align: center;
+	color: white;
+}
+.texte{
+padding: 5em;
+font-family:"Open Sans", sans-serif;
+font-size: 0.7em ;
+line-height: 175%;
+
+}
+.texte1{
+	font-size: 1.5rem;
+	font-weight: bold;
+	line-height: 150%;
+}
+.souligne{
+	color: black;
+	text-decoration: line-through;
+}
+.barrehori{
+	width:7%;
+	height:0.2em;
+	color:black;
+	background-color: black;
+	border-color: black;
+}
+.decoubout{
+	background-color:white;
+	border-radius: 10px ;
+	color: black;
+	font-weight: bold;
+	font-size: 0.5rem;
+	width: 7.5em;
+	height:2.5em;
+	margin: 0.2em;
+	padding-top: 0.3rem;
+	margin-right: auto;
+	margin-left: auto;
+}
+.image1{
+height:40%;
+ width:20%; 
+float:center;
+
+}
+.image2{
+height:40% ;
+width:20% ;
+float:center;
+}
+.cafetxt{
+	font-family:"Open Sans", sans-serif;
+	font-size: 0.6em;
+	text-align: center;
+}
+.cafetxt2{
+	font-family:"Open Sans", sans-serif;
+	font-size: 0.6em;
+	text-align: center;
+	
+}
+.image3{
+	align-items:middle; 
+	width:100% ;
+	float:center;
+	}
+.txtfin{
+	font-family:"Open Sans", sans-serif;
+	font-size: 0.6em;
+	text-align: center;
+	margin-top: 5em;
+}
+.resbout{
+	font-family:"Open Sans", sans-serif;
+	background-color:black;
+	border-radius: 15px ;
+	color: white;
+	font-size: 0.8rem;
+	width: 6em;
+	height:2.5em;
+	margin: 0.2em;
+	padding-top: 0.6rem;
+	padding-left: 1rem;
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: 700;
+}
+.beta{
+	display: flex;
+	font-family:"Open Sans", sans-serif;
+	align-items: center ;
+	 justify-content: center;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.txtfouteur{
+	font-weight: 300;
+}
+.fouteur{
+position: relative;
+bottom: 0px;
+	font-family:"Open Sans", sans-serif;
+	background-color:#222222;	
+	width: 100%;
+	height: 3.5em;
+	color: white;
+text-align: center;
+font-size: 10px;
+
+}
